@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+pyautogui
+pyperclip
+keyboard
+mss
+Pillow
+numpy
+pywin32
